@@ -27,5 +27,7 @@ Add a Batch File to Startup:
 - Type `shell:startup` and press Enter to open the Startup folder
 - Copy yout .bat file into this folder
 
+---
+Version 2 may come out as an installer. Also, features may be added or improved.
 
-
+**To Be Continue...**
